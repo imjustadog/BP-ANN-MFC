@@ -1,0 +1,19 @@
+﻿生成启动时间为 2017/1/18 17:06:43。
+     1>项目“C:\Users\zwq\Desktop\BP\BP\BP.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _CRT_SECURE_NO_WARNINGS /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\BP.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt BPDlg.cpp
+         BPDlg.cpp
+     1>c:\users\zwq\desktop\bp\bp\bpdlg.cpp(195): warning C4101: “fp2”: 未引用的局部变量
+     1>c:\users\zwq\desktop\bp\bp\bpdlg.cpp(255): warning C4101: “fp2”: 未引用的局部变量
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\zwq\Desktop\BP\Debug\BP.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"C:\Users\zwq\Desktop\BP\Debug\BP.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\zwq\Desktop\BP\Debug\BP.lib" /MACHINE:X86 Debug\BP.res
+         Debug\BP.obj
+         Debug\BPANN.obj
+         Debug\BPDlg.obj
+         Debug\stdafx.obj
+         BP.vcxproj -> C:\Users\zwq\Desktop\BP\Debug\BP.exe
+     1>已完成生成项目“C:\Users\zwq\Desktop\BP\BP\BP.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:02.09
